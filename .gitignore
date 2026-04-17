@@ -1,0 +1,17 @@
+# build artifacts
+dist/
+build/
+out/
+.turbo/
+*.tsbuildinfo
+
+# deps
+node_modules/
+
+# editor
+.vscode/
+.idea/
+.DS_Store
+
+# logs
+*.log
